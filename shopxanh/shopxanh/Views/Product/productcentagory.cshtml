@@ -1,0 +1,15 @@
+﻿@model List<model.EF.ProductCategorie>
+
+  
+      
+        @foreach (var iteam in Model.Where(x=>x.ParentID==null))
+        {
+            var url1 = "/san-pham/" +iteam.MetaTitle +"-"+iteam.ID;
+
+            <li >
+                <a href="@url1">@iteam.Name</a> 
+            </li>
+
+        }
+   
+

@@ -1,0 +1,52 @@
+﻿@model model.EF.Footer
+@{
+    var getmenu = (List<model.EF.Menu>)ViewBag.getmenuinfooter;
+}
+<div class="wrap">
+    <div class="section group">
+        <div class="col-md-4">
+            <h3>Thông tin liên hệ</h3>
+            <div>
+                <p>
+                    @Html.Raw(Model.text)
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>Danh Mục</h3>
+            <ul>
+                @foreach (var iteam in getmenu)
+                {
+
+                    <li><a href="@iteam.URL" style="color:darkgoldenrod">@iteam.Name</a></li>
+                    
+
+                }
+            </ul>
+
+            </div>
+        <div class="col-md-4">
+            <h4>Vui Lòng Liên Hệ</h4>
+            <ul>
+                <li><span>+91-123-456789</span></li>
+                <li><span>+00-123-000000</span></li>
+            </ul>
+            <div class="social-icons">
+                <h4>Follow Us</h4>
+                <ul>
+                    <li><a href="#" target="_blank"><img src="/Content/images/facebook.png" alt="" /></a></li>
+                    <li><a href="#" target="_blank"><img src="/Content/images/twitter.png" alt="" /></a></li>
+                    <li><a href="#" target="_blank"><img src="/Content/images/skype.png" alt="" /> </a></li>
+                    <li><a href="#" target="_blank"> <img src="/Content/images/dribbble.png" alt="" /></a></li>
+                    <li><a href="#" target="_blank"> <img src="/Content/images/linkedin.png" alt="" /></a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        </div>
+
+
+        </div>
+    </div>
+    <div class="copy_right">
+        <p ><a>@Model.Content</a> </p>
+    </div>

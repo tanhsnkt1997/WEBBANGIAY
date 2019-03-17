@@ -1,0 +1,89 @@
+﻿@model model.EF.Content
+@{
+    ViewBag.Title = Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listofcontent = (List<model.EF.Content>)ViewBag.cotentgetsl;
+}
+<style>
+    .b-news-detail .n-title {
+        padding-top:30px;
+        text-align:left;
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0 0 15px 0;
+        color: #666;
+    }
+    .news-text .date, .b-news-detail .date {
+    margin: 0 0 10px 0;
+    color: #909090;
+}
+    .b-news-detail p {
+    line-height: 1.5em;
+    font-size: 14px;
+    font-weight: 400;
+}
+    .fa-calendar::before {
+    content: "";
+}
+    .news-text .date i, .b-news-detail .date i {
+    margin-right: 10px;
+}
+    .b-news-detail p {
+    line-height: 1.5em;
+    font-size: 14px;
+    font-weight: 400;
+}
+    
+
+    .ct-right {
+    width: 100%;
+   float:unset;
+    min-height: 400px;
+}
+    img {
+        padding-bottom:20px;
+    border: none;
+}
+    img {
+    vertical-align: middle;
+}
+
+</style>
+
+<div class="ct-right">
+
+
+    <div class="block  b-news b-news-detail">
+        <div class="block-ct">
+            <h1 class="n-title">@Model.Name</h1>
+            <p class="date"><i class="fa fa-calendar"></i>@Model.CreatedDate</p>
+          <p>
+                <span style="color:rgb(56, 56, 56); font-family:helvetica; font-size:14px">@Html.Raw(Model.Detail)</span><br />
+               
+            </p>
+       
+
+            <div class="tag">
+                <span>Tags: </span>
+
+                <a title="@Model.Meta_title" href=""></a><span>
+
+            </div>
+
+            <div class="related-articles">
+                <h4>Các bài liên quan</h4>
+                <ul>
+                    @foreach(var iteam in listofcontent)
+                    {
+                        var url = "/tin-tuc/" + iteam.Meta_title + "-" + iteam.ID;
+                    <li><a href="@url" title="@iteam.Meta_title">@iteam.Name</a></li>
+                    }
+                </ul>
+                <div class="clear"></div>
+            </div><!--End related_articles-->
+        </div><!--End block-ct-->
+    </div><!--End block-->
+
+</div><!--End ct-right-->
+
+

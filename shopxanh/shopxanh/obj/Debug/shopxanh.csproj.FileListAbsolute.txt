@@ -1,0 +1,351 @@
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\csc.exe
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\vbc.exe
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll.config
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\shopxanh.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Razor.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\EntityFramework.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\model.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\model.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\CKFinder.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\shopxanh\bin\CKFinder.pdb
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\csc.exe
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\vbc.exe
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll.config
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\shopxanh.pdb
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\CKFinder.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\model.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\model.pdb
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\CKFinder.pdb
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.Razor.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\EntityFramework.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Changzhi\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+E:\Changzhi\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+E:\Changzhi\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\csc.exe
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\vbc.exe
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+E:\Database\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+E:\Database\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll.config
+E:\Database\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\shopxanh.pdb
+E:\Database\shopxanh\shopxanh\shopxanh\bin\CKFinder.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\model.dll
+E:\Database\shopxanh\shopxanh\shopxanh\bin\model.pdb
+E:\Database\shopxanh\shopxanh\shopxanh\bin\CKFinder.pdb
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.Razor.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\EntityFramework.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Database\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Database\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+E:\Database\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+E:\Database\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\csc.exe
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\vbc.exe
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll.config
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\shopxanh.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\shopxanh.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\CKFinder.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\model.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\model.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\CKFinder.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.Razor.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\EntityFramework.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\BotDetect.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\shopxanh\bin\BotDetect.Web.Mvc.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\csc.exe
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\vbc.exe
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\shopxanh.dll.config
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\BotDetect.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\BotDetect.Web.Mvc.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\CKFinder.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\model.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\model.pdb
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\CKFinder.pdb
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Http.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.Razor.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\csc.exe
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\vbc.exe
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\shopxanh.dll.config
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\BotDetect.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\BotDetect.Web.Mvc.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\CKFinder.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\model.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\model.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\CKFinder.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Http.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.Razor.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\csc.exe
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\vbc.exe
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\shopxanh.dll.config
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\BotDetect.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\BotDetect.Web.Mvc.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\CKFinder.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\model.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\model.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\CKFinder.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\obj\Debug\shopxanh.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\obj\Debug\shopxanh.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\obj\Debug\shopxanh.csprojResolveAssemblyReference.cache
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Net.Http.Formatting.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Http.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Http.WebHost.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Helpers.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Mvc.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Optimization.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.Razor.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.WebPages.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Antlr3.Runtime.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Newtonsoft.Json.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\shopxanh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml

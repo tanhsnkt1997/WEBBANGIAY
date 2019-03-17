@@ -1,0 +1,97 @@
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\model.dll.config
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\model.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\model.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\EntityFramework.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\EntityFramework.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\obj\Debug\model.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\obj\Debug\model.pdb
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gaming\Desktop\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Changzhi\shopxanh\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+E:\Changzhi\shopxanh\shopxanh\model\obj\Debug\model.dll
+E:\Changzhi\shopxanh\shopxanh\model\obj\Debug\model.pdb
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\model.dll.config
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\model.dll
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\model.pdb
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\EntityFramework.dll
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\EntityFramework.xml
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Changzhi\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Database\shopxanh\shopxanh\model\bin\Debug\model.dll.config
+E:\Database\shopxanh\shopxanh\model\bin\Debug\model.dll
+E:\Database\shopxanh\shopxanh\model\bin\Debug\model.pdb
+E:\Database\shopxanh\shopxanh\model\bin\Debug\EntityFramework.dll
+E:\Database\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Database\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Database\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Database\shopxanh\shopxanh\model\bin\Debug\EntityFramework.xml
+E:\Database\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Database\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Database\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Database\shopxanh\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+E:\Database\shopxanh\shopxanh\model\obj\Debug\model.dll
+E:\Database\shopxanh\shopxanh\model\obj\Debug\model.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\obj\Debug\model.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\obj\Debug\model.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\model.dll.config
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\model.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\model.pdb
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\EntityFramework.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\EntityFramework.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gaming\Desktop\lapteinhweb\shopxanh\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\model.dll.config
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\obj\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\shopxanh-20180527T124224Z-001\shopxanh\model\obj\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\model.dll.config
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\obj\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\obj\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\model.dll.config
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\obj\Debug\model.dll
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\obj\Debug\model.pdb
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\sneaker\shopxanh\model\bin\Debug\Microsoft.AspNet.Identity.Core.xml

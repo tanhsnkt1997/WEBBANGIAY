@@ -1,0 +1,44 @@
+﻿@model List<Model.ViewModel.ProductViewModel>
+@{
+   
+    ViewBag.Title = "Kết Quả Tìm Kiếm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="main">
+    <div class="content">
+        <div class="content_top">
+            <div class="heading">
+                <h3 style="text-align:center;font-size:medium;color:darkorange">Kết Quả Tìm Kiếm Theo Từ Khóa :@ViewBag.Keyword</h3>
+            </div>
+            <div class="see">
+                <p style="color:chartreuse"><a href="#"></a></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="section group">
+            @foreach (var iteam in Model)
+            {
+                var url = "/chi-tiet/" + iteam.MetaTitle + "-" + iteam.ID;
+                <div class="grid_1_of_4 images_1_of_4">
+                    <a href="@url"><img src="/Content/images/@iteam.Images" alt="" /></a>
+                    <h2>@iteam.Name </h2>
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p><span class="rupees">@(iteam.Price.HasValue ? iteam.Price.Value.ToString("N0") : "Liên hệ")</span></p>
+                        </div>
+                        <div class="add-cart">
+                            <h4><a href="/them-gio-hang?productId=@iteam.ID&quantity=1">Thêm vào giỏ</a></h4>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+</div>
+
+

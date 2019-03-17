@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@section jsFooter{
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsMCQBW-TXkSzkJTg-F-eSYGVyFw8sUbU&callback=initMap">
+    </script>
+    <script src="/Scripts/Contact_controller/contact.js"></script>">
+    <script>
+
+        // This example displays a marker at the center of Australia.
+        // When the user clicks the marker, an info window opens.
+
+        function initMap() {
+            var uluru = { lat: 10.802095, lng: 106.714518 };
+            var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                zoom: 18,
+                center: uluru
+            });
+            var marker = new google.maps.Marker({ position: uluru });
+
+            marker.setMap(map);
+
+
+
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map,
+                title: 'Địa chỉ'
+            });
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+
+
+
+
+
+
+
+            google.maps.event.addListener(map, 'center_changed', function () {
+                // set thời gian quay lại là 3s
+                window.setTimeout(function () {
+                    map.panTo(marker.getPosition());
+                }, 3000);
+            });
+            // Phóng to 9 lần khi click marker
+            google.maps.event.addListener(marker, 'click', function () {
+                map.setZoom(9);
+                map.setCenter(marker.getPosition());
+            });
+
+        }
+
+    </script>
+}
+<style>
+    #mapCanvas {
+        height: 500px;
+        width: auto;
+    }
+</style>
+
+<div class="header_slide">
+    <div class="header_bottom_left">
+        <div class="categories">
+            <ul>
+                <h3>Danh mục sản phẩm</h3>
+                @{ Html.RenderAction("productcentagory", "Product");}
+            </ul>
+        </div>
+    </div>
+    <div class="header_bottom_right">
+        <div class="slider">
+            <div id="slider">
+                <div id="mover">
+                    @{ Html.RenderAction("getslide", "Home");}
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+
+
+
+
+<div class="main">
+    <div class="content">
+        <div class="content_top">
+            <div class="heading">
+                <h3 style="color:dodgerblue ">Sản phẩm mới</h3>
+            </div>
+            <div class="see">
+                <p style="color:orangered"><a href="/san-pham/san-pham-moi-5">Xem tất cả sản phẩm</a></p>
+            </div>
+            <div class="clear"></div>
+
+            <div class="section group">
+                @{Html.RenderAction("listnewproduct", "product"); }
+            </div>
+        </div>
+        <div class="content_bottom">
+            <div class="heading">
+                <h3 style="color:cornflowerblue">Sản phẩm Hot</h3>
+            </div>
+            <div class="see">
+                <p style="color:orangered"><a href="/san-pham/san-pham-hot-6">Xem tất cả sản phẩm</a></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="section group">
+            @{ Html.RenderAction("listfeatureproduct", "Product");}
+        </div>
+    </div>
+
+
+    <div> <h3>Bản đồ</h3></div>
+    <hr width="30%" align="left" style="color:black" />
+    <div class="content_bottom">
+
+        <div class="map" id="mapCanvas"></div>
+    </div>
+</div>
+
+
+

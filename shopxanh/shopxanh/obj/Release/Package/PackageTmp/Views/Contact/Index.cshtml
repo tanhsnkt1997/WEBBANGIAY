@@ -1,0 +1,116 @@
+﻿@model model.EF.Contant
+@{
+    ViewBag.Title = "Liên hệ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #mapCanvas {
+        height: 500px;
+        width: auto;
+    }
+</style>
+@section jsFooter{
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsMCQBW-TXkSzkJTg-F-eSYGVyFw8sUbU&callback=initMap">
+    </script>
+    <script src="/Scripts/Contact_controller/contact.js"></script>">
+    <script>
+
+        // This example displays a marker at the center of Australia.
+        // When the user clicks the marker, an info window opens.
+
+        function initMap() {
+            var uluru = { lat: 10.802095, lng: 106.714518 };
+            var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                zoom: 18,
+                center: uluru
+            });
+            var marker = new google.maps.Marker({ position: uluru });
+
+            marker.setMap(map);
+
+
+
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map,
+                title: 'Địa chỉ'
+            });
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+
+            var infowindow = new google.maps.InfoWindow({
+                // nội dung của InfoWindow
+                content: "Vị Trí Chúng Tôi"
+            });
+
+
+
+
+
+            google.maps.event.addListener(map, 'center_changed', function () {
+                // set thời gian quay lại là 3s
+                window.setTimeout(function () {
+                    map.panTo(marker.getPosition());
+                }, 3000);
+            });
+            // Phóng to 9 lần khi click marker
+            google.maps.event.addListener(marker, 'click', function () {
+                map.setZoom(9);
+                map.setCenter(marker.getPosition());
+            });
+
+        }
+
+    </script>
+}
+
+
+<div class="main">
+    <div class="content">
+        <div class="section group">
+            <div class="col span_2_of_3">
+                <div class="contact-form">
+                    <h2>Liên hệ với chúng tôi</h2>
+                    <form>
+                        <div class="form-group">
+                            <label>Họ tên</label>
+                            <input type="text" id="txtName" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Điện thoại</label>
+                            <input type="text" id="txtMobile" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Địa chỉ</label>
+                            <input type="text" id="txtAddress" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="text" id="txtEmail" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label>Yêu cầu</label>
+                            <textarea id="txtContent" class="form-control"></textarea>
+                        </div>
+                        <button id="btnSend" class="btn btn-success">Gửi đi</button>
+                    </form>
+                </div>
+            </div>
+            <div class="col span_1_of_3">
+                <div class="contact_info">
+                    <h3>Tìm kiếm chúng tôi</h3>
+                    <div class="map" id="mapCanvas"></div>
+                </div>
+                <div class="company_address">
+                    <h3>Thông tin liên hệ:</h3>
+                    @Html.Raw(Model.Text)
+                    
+                     <p>Theo dõi chúng tôi : <span><a href="https://www.facebook.com/anhtuan151297" target="_blank">Facebook</a></span></p>
+                     
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

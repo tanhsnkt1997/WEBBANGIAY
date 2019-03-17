@@ -1,0 +1,159 @@
+﻿@model model.EF.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_mylayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-red">
+            <div class="panel-heading">
+                Chi tiết Sản Phẩm
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ProductCategorie.Name)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ProductCategorie.Name)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MetaTitle)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MetaTitle)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Detail)
+                    </dt>
+
+                    <dd>
+                        @Html.Raw(Model.Detail)
+                    </dd>
+
+                  
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Image)
+                    </dt>
+
+                    <dd>
+                        <img src="~/Content/images/@Model.Image" width="50px" />
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MoreImages)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MoreImages)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </dt>
+
+                    <dd>
+                         @Model.Price.ToString("N0")
+                    </dd>
+
+
+                  
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Description)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Description)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Content)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Content)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MetaKeyword)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MetaKeyword)
+                    </dd>
+
+                    
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CreatedDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CreatedDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CreatedBy)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CreatedBy)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.UpdatedDate)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.UpdatedDate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.UpdatedBy)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.UpdatedBy)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Status)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Status)
+                    </dd>
+
+                 
+
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+                @Html.ActionLink("Back to List", "Index")
+            </p>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->

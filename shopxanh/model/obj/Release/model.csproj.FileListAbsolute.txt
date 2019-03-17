@@ -1,0 +1,13 @@
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\model.dll.config
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\model.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\model.pdb
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\obj\Release\model.dll
+C:\Users\ANH TUAN\Desktop\store\shopxanh\model\obj\Release\model.pdb

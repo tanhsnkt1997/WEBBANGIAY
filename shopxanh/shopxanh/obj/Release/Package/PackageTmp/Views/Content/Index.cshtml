@@ -1,0 +1,33 @@
+﻿@model List<model.EF.Content>
+@{    ViewBag.Title = "Tin tức";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+}
+
+<div class="main">
+    <div class="content">
+        @foreach (var iteam in Model)
+        {
+            var url = "/tin-tuc/" + iteam.Meta_title+ "-" + iteam.ID;
+        <div class="image group">
+            <div class="grid images_3_of_1">
+                <img src="/Content/images/@iteam.Image" alt="" />
+            </div>
+            <div class="grid news_desc">
+                <h3>@iteam.Name</h3>
+                <h4>Posted on @iteam.CreatedDate by <span><a>@iteam.CreatedBy</a></span></h4>
+
+                <p>@iteam.Description<a  title="more"><a class="btn btn-primary btn-lg" href="@url" role="button">Đọc Tiếp</a></a></p>
+            </div>
+        </div>
+        }
+
+        <div class="content-pagenation">
+            <li><a href="#">Frist</a></li>
+            <li class="active"><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><a href="#">Last</a></li>
+            <div class="clear"> </div>
+        </div>
+    </div>
+</div>
